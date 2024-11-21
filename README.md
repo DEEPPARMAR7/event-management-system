@@ -1,4 +1,4 @@
- ## Event Management System
+# Event Management System
 ![Event Management System](https://user-images.githubusercontent.com/92677342/201507545-7f4b62dd-e31a-4f77-9777-71734b620ce7.png)
 
 
@@ -16,6 +16,7 @@
 
 ```
 $ git clone https://github.com/DEEPPARMAR7/event-management-system.git
+```
 
 ```
 $ sudo mysql -uroot -p
@@ -40,4 +41,4 @@ $ flask run
 ```
 
 
-- `Open` [http://127.0.0.1:5000]
+- `Open` [http://127.0.0.1:5000](http://127.0.0.1:5000)
